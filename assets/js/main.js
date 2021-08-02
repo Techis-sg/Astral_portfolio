@@ -167,7 +167,7 @@
 	$( "#target" ).submit(function( event ) {
 		alert( "Success: Your request submitted!!" );
 		event.preventDefault();
-		location.replace(location.href="/index.html");
+		location.replace(location.href="https://techis-sg.github.io/Astral_portfolio");
 	});
 
 })(jQuery);
